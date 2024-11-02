@@ -1,2 +1,11 @@
-
+.holder{
+	display:flex;
+	flex-direction:row;
+}
+.item{
+	width:50px;
+	margin:6px;
+	background-color:green;
+	padding:30px;
+}
 /* Your CSS Code here. */
